@@ -7,8 +7,6 @@
 
 - 📝 I write things at [https://davecooper.dev](https://davecooper.dev)
 
-- 💬 Ask me about **anything TypeScript or React related**
-
 - 📫 You can reach me at **dave@davecooper.dev**
 
 <p align="center">
