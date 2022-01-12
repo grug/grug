@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grug" alt="grug" /> </p>
 
-- 🔭 I’m currently working on [data-mocks](https://github.com/grug/data-mocks)
-
 - 📝 I write things at [https://davecooper.dev](https://davecooper.dev)
 
 - 📫 You can reach me at **dave@davecooper.dev**
